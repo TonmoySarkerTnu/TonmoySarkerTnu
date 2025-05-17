@@ -1,5 +1,7 @@
 <img src="https://github.com/TonmoySarkerTnu/TonmoySarkerTnu/blob/main/assets/banner-tonmoysarker.gif"> 
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tonmoysarkertnu&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoysarkertnu" /> </p>
+
 <div>
     <h1 align="center"?
     <a href="https://git.io/typing-svg">
@@ -29,7 +31,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=tonmoysarkertnu&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoysarkertnu" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoysarkertnu" alt="tonmoysarkertnu" /></a> </p>
 
 <h3 align="left">My Social Handles :</h3>
@@ -67,4 +68,24 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoysarkertnu&show_icons=true&locale=en&layout=compact" alt="tonmoysarkertnu" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoysarkerbd&show_icons=true&locale=en" alt="tonmoysarkerbd" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoysarkertnu&" alt="tonmoysarkertnu" /></p>
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=TonmoySarkerTnu&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=TonmoySarkerTnu&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=TonmoySarkerTnu&show_icons=true" />
+      </picture>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoysarkertnu&" alt="tonmoysarkertnu" />
+    </td>
+  </tr>
+</table>
