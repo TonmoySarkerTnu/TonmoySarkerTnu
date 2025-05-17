@@ -1,15 +1,30 @@
-<h1 align="center">Hi 👋, I'm Tonmoy Sarker</h1>
-<h3 align="center">A passionate Full stack Web developer from Bogura, Bangladesh</h3>
+<img src="https://github.com/TonmoySarkerTnu/TonmoySarkerTnu/blob/main/assets/banner-tonmoysarker.gif"> 
+
+<div>
+    <h1 align="center"?
+    <a href="https://git.io/typing-svg">
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=000000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Tonmoy+Sarker+!;+Welcome+to+My+Github+Profile!" />
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    </a>
+   </h1>
+</div> 
+
+<h3 align="center">
+A passionate frontend developer Web developer from Bogura, Bangladesh<img align="center" alt="Coding" width="38" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></
+h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
 
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Web Development**
+💬 Ask me about **Web Development**
 
-- 📫 How to reach me **tonmoycsebd@gmail.com**
+📫 How to reach me **tonmoycsebd@gmail.com**
+
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=tonmoysarkertnu&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoysarkertnu" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoysarkertnu" alt="tonmoysarkertnu" /></a> </p>
 
